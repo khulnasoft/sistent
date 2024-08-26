@@ -3,7 +3,7 @@ const createAndEditEnvironmentSchema = {
   properties: {
     description: {
       description:
-        'An environment is a collection of resources, such as connections & credentail. Provide a detailed description to clarify the purpose of this environment and the types of resources it encompasses. You can modify the description at any time. Learn more about environments [here](https://docs.meshery.io/concepts/logical/environments).',
+        'An environment is a collection of resources, such as connections & credentail. Provide a detailed description to clarify the purpose of this environment and the types of resources it encompasses. You can modify the description at any time. Learn more about environments [here](https://docs.meshplay.io/concepts/logical/environments).',
       format: 'textarea',
       title: 'Description',
       type: 'string',

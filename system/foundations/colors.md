@@ -10,7 +10,7 @@ category: foundations
 
 KhulnaSoft's UI offers a variety of different color modes. Every pattern in Sistent is built to work across all color modes out of the box.
 
-When designing product interfaces in Figma, we recommend using light mode. This is best because the Meshery Figma components are only available in light mode.
+When designing product interfaces in Figma, we recommend using light mode. This is best because the Meshplay Figma components are only available in light mode.
 To preview your work in other modes, use the [Figma color mode plugin](https://www.figma.com/community/plugin/992128487074360945/Change-Color-Mode).
 
 ## How to use color for product UI

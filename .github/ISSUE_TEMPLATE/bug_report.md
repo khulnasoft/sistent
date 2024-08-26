@@ -22,8 +22,8 @@ assignees: ''
 
 - **Host OS:** Mac Linux Windows
 - **Platform:** Docker or Kubernetes
-- **Meshery Server Version:** stable-v
-- **Meshery Client Version:** stable-v
+- **Meshplay Server Version:** stable-v
+- **Meshplay Client Version:** stable-v
 
 <!-- Optional
 #### To Reproduce
@@ -35,10 +35,10 @@ assignees: ''
 
 ---
 
-#### Contributor [Guides](https://docs.meshery.io/project/contributing) and Resources
+#### Contributor [Guides](https://docs.meshplay.io/project/contributing) and Resources
 
-- 🛠 [Meshery Build & Release Strategy](https://docs.meshery.io/project/build-and-release)
-- 📚 [Instructions for contributing to documentation](https://github.com/meshery/meshery/blob/master/CONTRIBUTING.md#documentation-contribution-flow)
-  - Meshery documentation [site](https://docs.meshery.io/) and [source](https://github.com/meshery/meshery/tree/master/docs)
+- 🛠 [Meshplay Build & Release Strategy](https://docs.meshplay.io/project/build-and-release)
+- 📚 [Instructions for contributing to documentation](https://github.com/meshplay/meshplay/blob/master/CONTRIBUTING.md#documentation-contribution-flow)
+  - Meshplay documentation [site](https://docs.meshplay.io/) and [source](https://github.com/meshplay/meshplay/tree/master/docs)
 - 🎨 Wireframes and [designs for Sistent site](https://www.figma.com/file/ekm0Hh6M25bSKpP5BcIJom/Sistent-Design-System?type=design&node-id=596%3A5227&mode=design&t=8MExPykHN1vQFCTZ-1) in Figma [(open invite)](https://www.figma.com/team_invite/redeem/qJy1c95qirjgWQODApilR9)
 - 🙋🏾🙋🏼 Questions: [KhulnaSoft Discussion Forum](https://discuss.khulnasoft.com) and [KhulnaSoft Community Slack](http://slack.khulnasoft.com)

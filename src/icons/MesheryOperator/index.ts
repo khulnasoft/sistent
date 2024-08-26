@@ -1,1 +1,1 @@
-export { default as MesheryOperator } from './MesheryOperator';
+export { default as MeshplayOperator } from './MeshplayOperator';

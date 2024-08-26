@@ -12,10 +12,10 @@ assignees: ''
 
 ---
 
-#### [Contributor Guides](https://docs.meshery.io/project/contributing) and Resources
+#### [Contributor Guides](https://docs.meshplay.io/project/contributing) and Resources
 
-- 📚 [Instructions for contributing to documentation](https://docs.meshery.io/project/contributing/contributing-docs)
-  - Meshery documentation [site](https://docs.meshery.io/) and [source](https://github.com/meshery/meshery/tree/master/docs)
-- 🛠 [Meshery Build & Release Strategy](https://docs.meshery.io/project/build-and-release)
+- 📚 [Instructions for contributing to documentation](https://docs.meshplay.io/project/contributing/contributing-docs)
+  - Meshplay documentation [site](https://docs.meshplay.io/) and [source](https://github.com/meshplay/meshplay/tree/master/docs)
+- 🛠 [Meshplay Build & Release Strategy](https://docs.meshplay.io/project/build-and-release)
 - 🎨Wireframes and [designs for Sistent site](https://www.figma.com/file/ekm0Hh6M25bSKpP5BcIJom/Sistent-Design-System?type=design&node-id=596%3A5227&mode=design&t=8MExPykHN1vQFCTZ-1) in Figma [(open invite)](https://www.figma.com/team_invite/redeem/qJy1c95qirjgWQODApilR9)
 - 🙋🏾🙋🏼 Questions: [KhulnaSoft Discussion Forum](https://discuss.khulnasoft.com) and [KhulnaSoft Community Slack](http://slack.khulnasoft.com)

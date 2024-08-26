@@ -8,14 +8,14 @@ interface CourseData {
 }
 
 const preReqSteps = [
-  { name: 'Set up', link: '/cloud-native-management/meshery' },
+  { name: 'Set up', link: '/cloud-native-management/meshplay' },
   {
-    name: 'Run Meshery',
-    link: '/cloud-native-management/meshery/getting-started'
+    name: 'Run Meshplay',
+    link: '/cloud-native-management/meshplay/getting-started'
   },
   {
-    name: 'Manage Meshery',
-    link: '/cloud-native-management/meshery/operating-service-meshes'
+    name: 'Manage Meshplay',
+    link: '/cloud-native-management/meshplay/operating-service-meshes'
   }
 ];
 

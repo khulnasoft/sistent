@@ -1,6 +1,6 @@
 ---
 name: 💡 Feature Request
-about: Suggest an enhancement to Meshery.
+about: Suggest an enhancement to Meshplay.
 title: ''
 labels: 'kind/enhancement'
 assignees: ''
@@ -28,6 +28,6 @@ assignees: ''
 
 ---
 
-**[Contributor Guide](https://docs.meshery.io/project/contributing)**
+**[Contributor Guide](https://docs.meshplay.io/project/contributing)**
 
 - 🎨 Wireframes and [designs for Sistent site](https://www.figma.com/file/ekm0Hh6M25bSKpP5BcIJom/Sistent-Design-System?type=design&node-id=596%3A5227&mode=design&t=8MExPykHN1vQFCTZ-1) in Figma [(open invite)](https://www.figma.com/team_invite/redeem/qJy1c95qirjgWQODApilR9)

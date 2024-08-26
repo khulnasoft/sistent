@@ -54,7 +54,7 @@ export * from './InfoOutlined';
 export * from './Kubernetes';
 export * from './LeftAngledArrow';
 export * from './LeftArrow';
-export * from './MesheryOperator';
+export * from './MeshplayOperator';
 export * from './Open';
 export * from './PanTool';
 export * from './Pattern';

@@ -2,7 +2,7 @@ import { FC } from 'react';
 import { CARIBBEAN_GREEN } from '../../theme';
 import { IconProps } from '../types';
 
-export const MesheryOperator: FC<IconProps> = ({ width = '24px', height = '24px', ...props }) => {
+export const MeshplayOperator: FC<IconProps> = ({ width = '24px', height = '24px', ...props }) => {
   return (
     <svg
       width={width}
@@ -229,4 +229,4 @@ export const MesheryOperator: FC<IconProps> = ({ width = '24px', height = '24px'
   );
 };
 
-export default MesheryOperator;
+export default MeshplayOperator;

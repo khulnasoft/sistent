@@ -7,7 +7,7 @@ This PR fixes #
 - [ ] Yes, I signed my commits.
 
 <!--
-Thank you for contributing to Meshery!
+Thank you for contributing to Meshplay!
 
 Contributing Conventions:
 

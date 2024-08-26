@@ -5,7 +5,7 @@ const createAndEditWorkspace = {
   properties: {
     description: {
       description:
-        "Workspaces serve as a virtual space for your team-based work, allows you to control access and more, Provide a detailed description to clarify the purpose of this workspace. Remember you can changes description of workspace after it's creations too. Learn more about workspaces [here](https://docs.meshery.io/concepts/logical/workspaces)",
+        "Workspaces serve as a virtual space for your team-based work, allows you to control access and more, Provide a detailed description to clarify the purpose of this workspace. Remember you can changes description of workspace after it's creations too. Learn more about workspaces [here](https://docs.meshplay.io/concepts/logical/workspaces)",
       format: 'textarea',
       title: 'Description',
       type: 'string',
