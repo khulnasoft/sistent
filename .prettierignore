@@ -1,0 +1,9 @@
+# Ignore artifacts:
+**/dist/**
+**/coverage/**
+**/.cache/**
+**/.github/**
+**/.yarn/**
+site/public
+.yarnrc.yml
+.eslintrc.*js

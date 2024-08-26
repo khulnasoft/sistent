@@ -16,3 +16,17 @@
 
 # IDEs
 .vscode/*
+
+node_modules
+
+build/**
+dist/**
+
+packages/dist/**
+packages/design-system/node_modules/**
+
+**/storybook-static/**
+pub.sh
+.eslintcache
+
+.DS_Store

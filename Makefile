@@ -1,24 +1,32 @@
-check:
-	golangci-lint run
+.PHONY: setup build format-check format-fix
 
-check-clean-cache:
-	golangci-lint cache clean
+## Install Sistent dependencies your local machine.
+package-setup:
+	npm install
 
-protoc-setup:
-	wget -P meshes https://raw.githubusercontent.com/khulnasoft/meshplay/master/meshes/meshops.proto
+## Build Sistent components and packages on your local machine.
+package-build: setup
+	npm run build
 
-proto:
-	protoc -I meshes/ meshes/meshops.proto --go_out=plugins=grpc:./meshes/
+package-build-watch: setup
+	npm run build:watch
 
+package-format-check:
+	npm run format:check
 
+package-format-fix:
+	npm run format:write
 
+.PHONY: version-patch version-minor version-major
 
+# Create a patch version of packages
+version-patch:
+	npm run versionup:patch
 
-site:
-	$(jekyll) serve --drafts --livereload
+# Create a minor version of packages
+version-minor:
+	npm run versionup:minor
 
-build:
-	$(jekyll) build --drafts
-
-docker:
-	docker run --name site -d --rm -p 4000:4000 -v `pwd`:"/srv/jekyll" jekyll/jekyll:4.0.0 bash -c "bundle install; jekyll serve --drafts --livereload"
+# Create a major versio of packages
+version-major:
+	npm run versionup:major
