@@ -107,7 +107,7 @@ jobs:
       - name: Checkout Meshplay Extensions code
         uses: actions/checkout@v4
         with:
-          repository: khulnasoftio/meshplay-cloud
+          repository: khulnasoft/meshplay-cloud
           fetch-depth: 1
           token: ${{ secrets.RELEASEDRAFTER_PAT }}
       - uses: actions/setup-node@v4
